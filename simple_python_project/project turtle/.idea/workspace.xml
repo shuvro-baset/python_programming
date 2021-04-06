@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf8ab9e3-33e7-4a24-8bca-b3d71fcda255" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/project_turtle$FF.coverage" NAME="FF Coverage Results" MODIFIED="1506362440144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+    <SUITE FILE_PATH="coverage/project_turtle$U.coverage" NAME="U Coverage Results" MODIFIED="1506534937574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+    <SUITE FILE_PATH="coverage/project_turtle$final_way.coverage" NAME="final-way Coverage Results" MODIFIED="1506538982403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+    <SUITE FILE_PATH="coverage/project_turtle$R.coverage" NAME="R Coverage Results" MODIFIED="1506532707778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+    <SUITE FILE_PATH="coverage/project_turtle$F.coverage" NAME="F Coverage Results" MODIFIED="1506445550675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+    <SUITE FILE_PATH="coverage/project_turtle$Y.coverage" NAME="Y Coverage Results" MODIFIED="1506535681837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+    <SUITE FILE_PATH="coverage/project_turtle$J.coverage" NAME="J Coverage Results" MODIFIED="1506530657396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+    <SUITE FILE_PATH="coverage/project_turtle$S.coverage" NAME="S Coverage Results" MODIFIED="1506533167639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+    <SUITE FILE_PATH="coverage/project_turtle$C.coverage" NAME="C Coverage Results" MODIFIED="1506359277134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+    <SUITE FILE_PATH="coverage/project_turtle$M.coverage" NAME="M Coverage Results" MODIFIED="1506531994308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+    <SUITE FILE_PATH="coverage/project_turtle$V.coverage" NAME="V Coverage Results" MODIFIED="1506535158611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+    <SUITE FILE_PATH="coverage/project_turtle$X.coverage" NAME="X Coverage Results" MODIFIED="1506535582784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+    <SUITE FILE_PATH="coverage/project_turtle$P.coverage" NAME="P Coverage Results" MODIFIED="1506532996886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+    <SUITE FILE_PATH="coverage/project_turtle$H.coverage" NAME="H Coverage Results" MODIFIED="1506537699491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+    <SUITE FILE_PATH="coverage/project_turtle$K.coverage" NAME="K Coverage Results" MODIFIED="1506531242448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+    <SUITE FILE_PATH="coverage/project_turtle$E.coverage" NAME="E Coverage Results" MODIFIED="1506445485675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+    <SUITE FILE_PATH="coverage/project_turtle$N.coverage" NAME="N Coverage Results" MODIFIED="1506532108472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+    <SUITE FILE_PATH="coverage/project_turtle$B.coverage" NAME="B Coverage Results" MODIFIED="1506359768651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+    <SUITE FILE_PATH="coverage/project_turtle$Q.coverage" NAME="Q Coverage Results" MODIFIED="1506532609690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+    <SUITE FILE_PATH="coverage/project_turtle$T.coverage" NAME="T Coverage Results" MODIFIED="1506533274469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+    <SUITE FILE_PATH="coverage/project_turtle$Z.coverage" NAME="Z Coverage Results" MODIFIED="1506535889718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+    <SUITE FILE_PATH="coverage/project_turtle$G.coverage" NAME="G Coverage Results" MODIFIED="1506445752160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+    <SUITE FILE_PATH="coverage/project_turtle$I.coverage" NAME="I Coverage Results" MODIFIED="1506446802631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+    <SUITE FILE_PATH="coverage/project_turtle$D.coverage" NAME="D Coverage Results" MODIFIED="1506538426719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+    <SUITE FILE_PATH="coverage/project_turtle$O.coverage" NAME="O Coverage Results" MODIFIED="1506532268844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+    <SUITE FILE_PATH="coverage/project_turtle$A.coverage" NAME="A Coverage Results" MODIFIED="1506359909802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+    <SUITE FILE_PATH="coverage/project_turtle$finaleeeee.coverage" NAME="finaleeeee Coverage Results" MODIFIED="1506361589674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/project_turtle$W.coverage" NAME="W Coverage Results" MODIFIED="1506535375643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+    <SUITE FILE_PATH="coverage/project_turtle$L.coverage" NAME="L Coverage Results" MODIFIED="1506531463035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="170" />
+    <option name="y" value="91" />
+    <option name="width" value="1026" />
+    <option name="height" value="546" />
+  </component>
+  <component name="ProjectId" id="1WPoSHtNaD2rQdlqt95ZHe7LTCU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/PerfLogs" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.final-way">
+    <configuration name="D" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project turtle" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/O-Z py files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/O-Z py files/D.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="H" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project turtle" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/O-Z py files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/O-Z py files/H.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Y" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project turtle" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/O-Z py files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/O-Z py files/Y.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Z" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project turtle" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/O-Z py files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/O-Z py files/Z.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="final-way" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project turtle" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/O-Z py files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/O-Z py files/final-way.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.final-way" />
+      <item itemvalue="Python.Y" />
+      <item itemvalue="Python.Z" />
+      <item itemvalue="Python.H" />
+      <item itemvalue="Python.D" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.final-way" />
+        <item itemvalue="Python.D" />
+        <item itemvalue="Python.H" />
+        <item itemvalue="Python.Z" />
+        <item itemvalue="Python.Y" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf8ab9e3-33e7-4a24-8bca-b3d71fcda255" name="Default" comment="" />
+      <created>1506278404659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506278404659</updated>
+      <workItem from="1579060591417" duration="157000" />
+      <workItem from="1579196131917" duration="291000" />
+      <workItem from="1579196515761" duration="103000" />
+      <workItem from="1579196667929" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="357" y="27" width="642" height="708" key="#final-way" timestamp="1579060617472">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state x="357" y="27" width="642" height="708" key="#final-way/0.27.1366.708@0.27.1366.708" timestamp="1579060617472" />
+    <state x="456" y="139" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579060684745">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state x="456" y="139" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.708@0.27.1366.708" timestamp="1579060684745" />
+    <state width="1320" height="132" key="GridCell.Tab.0.bottom" timestamp="1579196421886">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state width="1320" height="132" key="GridCell.Tab.0.bottom/0.27.1366.708@0.27.1366.708" timestamp="1579196421886" />
+    <state width="1320" height="132" key="GridCell.Tab.0.center" timestamp="1579196421885">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state width="1320" height="132" key="GridCell.Tab.0.center/0.27.1366.708@0.27.1366.708" timestamp="1579196421885" />
+    <state width="1320" height="132" key="GridCell.Tab.0.left" timestamp="1579196421884">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state width="1320" height="132" key="GridCell.Tab.0.left/0.27.1366.708@0.27.1366.708" timestamp="1579196421884" />
+    <state width="1320" height="132" key="GridCell.Tab.0.right" timestamp="1579196421885">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state width="1320" height="132" key="GridCell.Tab.0.right/0.27.1366.708@0.27.1366.708" timestamp="1579196421885" />
+    <state x="172" y="27" width="1012" height="708" key="SettingsEditor" timestamp="1579060698180">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state x="172" y="27" width="1012" height="708" key="SettingsEditor/0.27.1366.708@0.27.1366.708" timestamp="1579060698180" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/project_turtle$final_way.coverage" NAME="final-way Coverage Results" MODIFIED="1579196133965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O-Z py files" />
+  </component>
+</project>
