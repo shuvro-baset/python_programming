@@ -19,5 +19,5 @@ print (myObject.__hiddenVariable)
 
 # if we write this, then it will give us the output
 print (myObject._MyClass__hiddenVariable) 
-# here we learn that, it we want to call hidden data then we have to write the code => object + parant class + variable name
+# here we learn that, if we want to call hidden data then we have to write the code => object + parant class + variable name
 #We can access the value of hidden attribute by a tricky syntax as object._className__attrName:
