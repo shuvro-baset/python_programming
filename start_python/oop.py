@@ -23,14 +23,14 @@ class User:
         self.login = False
         print("Logged Out!")
 
-    def isLoggedIn(self):
-        if self.login == True:
+    def is_logged_in(self):
+        if self.login:
             return True
         else:
             return False
 
-    def profle(self):
-        if self.isLoggedIn():
+    def profile(self):
+        if self.is_logged_in():
             print(self.name, "-", self.email)
         else:
             print("User is not Logged in!")
@@ -39,6 +39,6 @@ class User:
 user1 = User("Adam", "adam@testmail.com", "12345")
 
 user1.login()
-user1.profle()
+user1.profile()
 
 hello = input()
