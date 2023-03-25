@@ -41,3 +41,16 @@ class Student:
 # variable = class_name()
 s1 = Student("Baset", 23)  # creating object with passing objects attributes
 s1.details()  # calling instance method
+
+'''
+    __dict__() built in method for class 
+    by calling this with the reference of an object, it will show all the property with values of an object 
+    as a dictionary
+'''
+print(s1.__dict__)
+
+'''
+    dir() built in method for class 
+    it will show all the instance & method of that class
+'''
+print(dir(s1))
