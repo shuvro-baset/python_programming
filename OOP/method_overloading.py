@@ -16,7 +16,7 @@ class my_calculator:
 # todo:  Method Overloading using *
 '''
 
-    def product(self, *nums):
+    def product(self, *nums): # here *nums will be tuple
         sum = 1
         for x in nums:
             sum = sum * x
@@ -50,3 +50,27 @@ class MyCalculator:
 c1 = MyCalculator()
 c1.product(4, 5)
 c1.product(1, 5, 9)
+
+# Todo: Constructor Overloading
+'''
+    We can achieve constructor overloading same process as method overloading
+'''
+
+
+class Student:
+
+    def __init__(self, **info):
+        if len(info) == 3:
+            self.name = info['name']
+            self.id = info['id']
+            self.CGPA = info['cg']
+        elif len(info) == 2:
+            self.name = info['name']
+            self.id = info['id']
+        elif len(info) == 1:
+            self.name = info['name']
+        print("A student is created")
+
+
+#############################
+s1 = Student(name="Baset", id=75, cg=3.37)
