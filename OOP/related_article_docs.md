@@ -1,0 +1,2 @@
+- Instance vs. Static vs. Class Methods in Python: The Important Differences
+  - https://www.makeuseof.com/tag/python-instance-static-class-methods/
