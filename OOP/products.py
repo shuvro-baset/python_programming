@@ -6,6 +6,10 @@ class Product:
         self.name = name
         self.price = price
 
+    # this is instance method. this method will call with reference of an object
+    def summer_discount(self, discount_percent):
+        self.price = self.price - self.price*discount_percent/100
+
 # # creating an object of Product
 # p1 = Product()
 # # printing p1 and it will return the memory address of this object
