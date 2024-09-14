@@ -16,18 +16,22 @@
 '''
 
 from abc import ABC, abstractmethod
-class Food(ABC): # making abstract class
+
+
+class Food(ABC):  # making abstract class
     @abstractmethod
-    def taste(self): # making abstract method
+    def taste(self):  # making abstract method
         pass
-    
+
+
 class Pizza(Food):
-    def taste(self): # overriding abstract method
+    def taste(self):  # overriding abstract method
         print("Pizza is delicious")
-        
+
     def size(self):
         print("12-inch pizza")
-        
+
+
 p = Pizza()
 p.taste()
 p.size()
